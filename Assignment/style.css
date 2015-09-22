@@ -1,12 +1,15 @@
 #map-container {
 	width: 500px;
 	height: 400px;
+	margin: 0 auto;
 }
 .box{
 	width: 200px;
 	height: 200px;
+	margin: 0 auto;
 }
 .red{
 	background-color: rgb(255,99,71);
 	border: 3px double red;
+	margin: 0 auto;
 }
